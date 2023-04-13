@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/abheekrishna" target="blank"><img src="https://img.shields.io/twitter/follow/abheekrishna?logo=twitter&style=for-the-badge" alt="abheekrishna" /></a> </p>
 
-- 🔭 I’m currently working on [Admin dashboard project](https://github.com/Abheekrishna/admin-dashboard)
+- 🔭 I’m currently working on [Admin dashboard project](https://github.com/Abheekrishna/tip-calculator)
 
 - 🌱 I’m currently learning **Javascript**
 
